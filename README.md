@@ -1,6 +1,3 @@
-cd ~/projects/egfr-ai-variant-benchmark
-
-cat > README.md << 'EOF'
 # Benchmarking AI Variant Predictors Against Physics and Evolution
 
 **An evaluation of AlphaMissense (AI) against FoldX (thermodynamics) and cross-species conservation (evolution) for 40 LUAD EGFR variants.**
