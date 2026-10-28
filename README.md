@@ -63,13 +63,10 @@ egfr-ai-variant-benchmark/
     ├── 01_fetch_alphamissense.py        # API attempt (kept for record)
     ├── 03_merge_and_plot.py             # Merge FoldX + Cons + AI
     └── 04_portfolio_summary_plot.py     # Generates the 3-panel figure
-### Author
+## Author
 
 ## Preet Beniwal — Independent bioinformatics portfolio project.
 GitHub: @preet-beniwal
 
 ## License
-
 MIT — see LICENSE.
-
-EOF
